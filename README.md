@@ -39,6 +39,8 @@ The data used in this project was generated using ChatGPT, an AI language model 
 3. View the `Visualizations` for a preview of the dashboard. You will need to click on each to view 3 dashboards
 
 
+## Interactive Dashboard
+To view the interactive dashboard, visit the [Dynatech-Solutions-HR-Dashboard]( https://phillipkay53.github.io/Dynatech-Solutions-HR-Dashboard/) on GitHub Pages.
 
 
 ## GitHub Repository
