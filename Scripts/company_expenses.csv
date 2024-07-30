@@ -1,6 +1,0 @@
-ExpenseID,ExpenseType,Amount,Date,Department,Description
-EX001,Office Supplies,500,2023-01-10,HR,Office chairs and desks
-EX002,Travel,1200,2023-01-15,Sales,Business trip to New York
-EX003,Salary,80000,2023-01-31,IT,Monthly salaries for IT staff
-EX004,Benefits,20000,2023-01-31,Finance,Health insurance premiums
-EX005,Office Supplies,300,2023-02-05,Marketing,Printing and promotional items
