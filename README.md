@@ -46,9 +46,9 @@ To view the interactive dashboard, visit the [Dynatech-Solutions-HR-Dashboard]( 
 
 ## Dynatech HR Dashboard Report
 
-To view the detailed HR Dashboard Report, click this link [Dynatech HR Dashboard Report]( https://phillipkay53.github.io/Dynatech-Solutions-HR-Dashboard/) on GitHub Pages.
+To view the detailed HR Dashboard Report, click this link [Dynatech HR Dashboard Report](https://www.canva.com/design/DAGMYn8OhmA/ZRC57LCOIdnQvYX6QAZqVg/view).
 
 ## GitHub Repository
-View the full Repository [Dynatech-Solutions-HR-Dashboard](https://www.canva.com/design/DAGMYn8OhmA/ZRC57LCOIdnQvYX6QAZqVg/view)
+View the full Repository [Dynatech-Solutions-HR-Dashboard]([https://www.canva.com/design/DAGMYn8OhmA/ZRC57LCOIdnQvYX6QAZqVg/view](https://github.com/phillipkay53/Dynatech-Solutions-HR-Dashboard))
 
 
