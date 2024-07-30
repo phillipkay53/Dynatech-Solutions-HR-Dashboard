@@ -37,6 +37,7 @@ The data used in this project was generated using ChatGPT, an AI language model 
 1. Clone the repository: `git clone [https://github.com/phillipkay53/Dynatech-Solutions-HR-Dashboard.git]`
 2. Open the `Script/Dynatech_hr_dashboard.sql` file to see the SQL queries used.
 3. View the `Visualizations` for a preview of the dashboard. You will need to click on each to view 3 dashboards
+4. Read the  `Docs/Dynatech HR Report.pdf` for the detailed project report. 
 
 
 ## Interactive Dashboard
