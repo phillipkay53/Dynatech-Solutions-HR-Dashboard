@@ -38,8 +38,7 @@ The data used in this project was generated using ChatGPT, an AI language model 
 2. Open the `Script/Dynatech_hr_dashboard.sql` file to see the SQL queries used.
 3. View the `Visualizations` for a preview of the dashboard. You will need to click on each to view 3 dashboards
 
-## Interactive Dashboard
-<iframe title="Dynatech Solutions HR Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWFkMWE3NmMtZWUwNy00NzQ1LWJjZTAtZWQ1NDNhMTYwMzNkIiwidCI6ImM5YzMxMDk2LTBjODUtNDIzNS1iMWI2LWE3Yzg1ZWRlNjY3NiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 
 
 ## GitHub Repository
