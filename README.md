@@ -42,7 +42,7 @@ The data used in this project was generated using ChatGPT, an AI language model 
 
 
 ## Interactive Dashboard
-To view the interactive dashboard, visit the [Dynatech-Solutions-HR-Dashboard]( https://phillipkay53.github.io/Dynatech-Solutions-HR-Dashboard/) on GitHub Pages.
+To view the interactive dashboard, visit the [Dynatech-Solutions-HR-Dashboard](https://app.powerbi.com/reportEmbed?reportId=1728032f-9f5c-4e20-a86e-fbfab7197dd8&autoAuth=true&ctid=c9c31096-0c85-4235-b1b6-a7c85ede6676)
 
 ## Dynatech HR Dashboard Report
 
