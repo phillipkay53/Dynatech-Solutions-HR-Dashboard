@@ -44,4 +44,4 @@ To view the interactive dashboard, visit the [Dynatech-Solutions-HR-Dashboard]( 
 
 
 ## GitHub Repository
-[Dynatech Solutions HR Dashboard]([https://github.com/phillipkay53/Dynatech-Solutions-HR-Dashboard](https://github.com/phillipkay53/Dynatech-Solutions-HR-Dashboard.git)) 
+[Dynatech Solutions HR Dashboard]([https://github.com/phillipkay53/Dynatech-Solutions-HR-Dashboard](https://github.com/phillipkay53/Dynatech-Solutions-HR-Dashboard.git) 
