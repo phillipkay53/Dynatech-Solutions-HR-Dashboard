@@ -1,0 +1,151 @@
+EmployeeID,Name,Department,Location,Position,HireDate,Salary,PerformanceRating,DateOfBirth,Gender,ContactInfo,MaritalStatus,EmergencyContact,PreviousPositions,Education,Certifications,Address,WorkRemote,Absences,EmploymentStatus,Race,BonusReceived,BenefitsEligibility,EnrolledInBenefits,WorkAuthorization,Travel,CompanyAssignedComputer
+E001,Joy Evans,HR,New Autumn,Coordinator,2021-06-07,110718,4,2001-04-07,Male,danielsellers@miller.com,Married,"Samuel Fowler, 001-204-923-9651x821",Junior Developer,High School,AWS Certified Developer,"253 Taylor Lock Suite 998
+North Sandratown, PA 46838",Office,1,Full-time,Asian,Yes,Eligible,Yes,Authorized,Yes,Yes
+E002,Kevin Sims,IT,Bishopstad,Coordinator,2022-08-24,59122,5,1980-04-24,Female,justin71@stephens.com,Married,"James Jackson, 1313571541",Junior Specialist,PhD,CFA Level 1,"3039 Wyatt Common Apt. 164
+Juanstad, CA 22298",Remote,10,Full-time,White,Yes,Eligible,Yes,Authorized,No,Yes
+E003,Dr. Isabel Welch,Marketing,North Cynthiamouth,Specialist,2022-05-15,68629,1,1976-06-24,Female,taylorjohnson@cooper.biz,Divorced,"Michele Andrews, 001-635-448-0875x928",Assistant Manager,Master's Degree,CFA Level 1,"2523 Walter Village Apt. 575
+East Laurenview, LA 33022",Remote,3,Full-time,Asian,Yes,Eligible,No,Authorized,No,Yes
+E004,Michaela Douglas,Finance,Ericton,Manager,2023-10-01,115866,5,1991-08-22,Female,gonzaleztimothy@yahoo.com,Divorced,"William Johnson, 001-678-551-8048x8375",Assistant Coordinator,Master's Degree,CFA Level 1,"6291 Gregory Haven Suite 719
+Lake Rebeccastad, HI 46962",Remote,6,Full-time,White,Yes,Eligible,No,Authorized,No,Yes
+E005,Angela Owens,Sales,Trevorchester,Coordinator,2021-02-18,55756,3,1984-08-16,Female,marieho@yahoo.com,Married,"Troy Wright, 760-463-1209",Trainee Developer,PhD,PMP,"22987 Lisa Run
+East Melissamouth, PA 14302",Remote,3,Full-time,Asian,No,Eligible,Yes,Authorized,No,Yes
+E006,Tony Harding,Sales,Port Nathan,Manager,2023-01-24,60484,5,1986-07-30,Female,edwardwhite@white.com,Married,"Barry Romero, +1-106-719-9050x4067",Intern Coordinator,Master's Degree,AWS Certified Developer,"7283 Fernando Groves Suite 573
+Millerberg, CO 39711",Office,5,Full-time,Black,No,Eligible,No,Authorized,Yes,Yes
+E007,Grace Collins,HR,Kellyfort,Manager,2023-05-23,107054,3,1968-07-08,Male,donald13@webster-sims.com,Single,"Tracy Wolf, 001-084-743-9297x2376",Junior Manager,PhD,PMP,"2670 Brandon Brook
+East Trevorton, MN 35875",Remote,1,Full-time,Hispanic,No,Eligible,Yes,Authorized,Yes,Yes
+E008,Nicholas Jones,Finance,Port Tammy,Manager,2019-09-01,78746,5,1965-02-09,Female,robert89@yahoo.com,Married,"Garrett Stephens, +1-055-277-0674x20036",Junior Coordinator,Bachelor's Degree,PMP,"8908 Romero Plaza
+Joshuatown, KY 65285",Remote,10,Full-time,Asian,No,Eligible,No,Authorized,Yes,Yes
+E009,Angela Taylor,IT,New Sarahshire,Analyst,2022-08-19,62460,4,1986-05-05,Male,johnsoncheryl@hotmail.com,Divorced,"Emily Perez, +1-303-729-4084x10071",Assistant Coordinator,Master's Degree,SHRM-CP,"306 Henderson Lane Suite 305
+East Daniel, NM 18042",Remote,8,Full-time,Black,Yes,Eligible,No,Authorized,No,Yes
+E010,Stephen Cooper,HR,Javierfort,Developer,2024-02-21,105587,2,2000-02-10,Male,sanchezmichael@floyd.com,Single,"Peter Branch, 998-095-3121x8407",Assistant Manager,PhD,CFA Level 1,"212 Berg Mission
+Brianmouth, NE 31405",Remote,10,Full-time,Asian,Yes,Eligible,Yes,Authorized,Yes,Yes
+E011,Tyrone Hernandez,Marketing,West Jeff,Specialist,2023-11-11,110050,4,1994-09-01,Male,iwilson@sullivan.com,Divorced,"Roger Francis, (203)256-9274x98424",Assistant Analyst,High School,AWS Certified Developer,"56277 Krause Courts Apt. 180
+Baileyland, MA 27039",Office,4,Full-time,Asian,Yes,Eligible,Yes,Authorized,No,Yes
+E012,Michael Mcdaniel,Finance,Fullerfort,Coordinator,2019-10-03,61877,3,1973-05-25,Female,shannonrivera@diaz-jimenez.net,Divorced,"Martha Gray, 623-317-2623",Trainee Developer,Master's Degree,AWS Certified Developer,"26589 Keith Roads Apt. 499
+Adamport, MD 40573",Office,2,Full-time,Hispanic,Yes,Eligible,No,Authorized,No,Yes
+E013,Jennifer Rubio,Finance,New Krista,Coordinator,2024-05-13,83292,4,1984-02-20,Female,levylaurie@hotmail.com,Married,"Alyssa Rice, 368.672.4833x4523",Intern Analyst,PhD,SHRM-CP,"74064 Madison Flats Apt. 162
+Lake Jenniferbury, PA 84528",Remote,2,Full-time,Asian,Yes,Eligible,Yes,Authorized,No,Yes
+E014,Wayne Ryan,Finance,Davidtown,Manager,2020-09-15,112534,1,1980-02-26,Female,buckleyelizabeth@king.org,Single,"David House, 8890207240",Trainee Analyst,High School,AWS Certified Developer,"USCGC Lynch
+FPO AP 94023",Remote,9,Full-time,Black,No,Eligible,No,Authorized,Yes,Yes
+E015,James Patterson,Sales,Petersonberg,Specialist,2023-10-28,99812,3,1982-10-03,Male,jonathan16@martin-johnson.com,Divorced,"Lisa White, +1-727-381-1949x55193",Intern Specialist,Master's Degree,PMP,"692 Chandler Overpass
+Carneyburgh, MA 00603",Remote,3,Full-time,Black,No,Eligible,No,Authorized,No,Yes
+E016,Courtney Scott,IT,North Kimberlyview,Specialist,2020-04-24,74613,1,2003-01-25,Female,ashlee46@mack.net,Single,"Dustin Miller, 120-925-9246",Trainee Specialist,Bachelor's Degree,PMP,"USNV Garcia
+FPO AE 95542",Office,0,Full-time,Hispanic,Yes,Eligible,Yes,Authorized,Yes,Yes
+E017,Jennifer Hebert,HR,Chadfurt,Developer,2022-09-21,84306,4,2001-08-04,Male,lisasolis@conner.com,Married,"Pamela Hull, 319.650.4611x50196",Assistant Specialist,PhD,SHRM-CP,"98328 Austin Club Suite 096
+Lake Shannon, SC 27299",Remote,0,Full-time,Hispanic,No,Eligible,Yes,Authorized,Yes,Yes
+E018,Susan Doyle,Sales,Lambertland,Analyst,2021-10-01,50120,4,1997-11-17,Female,xavierporter@gmail.com,Married,"Dr. Shelby Hudson DDS, (450)405-7538x280",Intern Manager,Master's Degree,SHRM-CP,"262 Jason Estate
+Sandraberg, SC 05687",Remote,5,Full-time,Black,No,Eligible,Yes,Authorized,Yes,Yes
+E019,Misty Lewis,HR,Branchchester,Specialist,2024-02-26,66011,2,1997-08-28,Female,lauriewolfe@hotmail.com,Single,"Anthony Gonzales, +1-339-281-9718x1989",Intern Specialist,Bachelor's Degree,PMP,"3370 Rodriguez Parkway Suite 473
+Penaborough, AR 24260",Office,5,Full-time,Hispanic,Yes,Eligible,Yes,Authorized,No,Yes
+E020,Ronald Vasquez,Finance,Anthonyfurt,Coordinator,2019-07-29,115595,3,1996-12-23,Male,cherylvelasquez@sutton.com,Divorced,"Carlos Rosales, 001-762-892-0619x3872",Trainee Coordinator,Master's Degree,SHRM-CP,"161 Valerie Estate
+Port Jane, AK 19420",Remote,3,Full-time,White,Yes,Eligible,No,Authorized,No,Yes
+E021,Jennifer Wyatt,IT,Simmonsstad,Analyst,2020-07-14,63246,3,1983-10-08,Female,catherinewood@acosta.biz,Single,"Daniel Reid, (216)456-6479",Trainee Coordinator,High School,SHRM-CP,"86471 Rodriguez Spring
+Port Kelsey, NJ 13858",Office,6,Full-time,Black,No,Eligible,No,Authorized,Yes,Yes
+E022,Eric Townsend,Marketing,Jessicaland,Specialist,2022-09-09,65271,1,1978-10-03,Female,jeremy55@dunlap-shah.com,Single,"Nicholas Kennedy, 9786627940",Intern Analyst,Bachelor's Degree,SHRM-CP,"911 Dickson Garden Apt. 271
+Port Kyletown, OR 50025",Remote,5,Full-time,White,No,Eligible,No,Authorized,Yes,Yes
+E023,Sarah Harrison,Marketing,Allisonport,Specialist,2022-03-08,70583,5,1964-03-14,Male,glen30@newman.biz,Divorced,"Patricia Murray, +1-354-930-6920x68101",Assistant Manager,Bachelor's Degree,Google Analytics,"9065 Pamela Turnpike Suite 671
+Baldwinchester, UT 47764",Office,8,Full-time,White,No,Eligible,No,Authorized,Yes,Yes
+E024,Kent Cochran,Marketing,New Timothyland,Manager,2021-09-10,94897,3,1993-11-19,Male,plopez@hall.com,Divorced,"Robert Flores, 001-650-970-6930x1352",Intern Analyst,High School,PMP,"USNV Adams
+FPO AE 85496",Office,9,Full-time,Asian,No,Eligible,Yes,Authorized,No,Yes
+E025,Robert Perkins,HR,Port Isaiah,Analyst,2019-10-29,53628,3,1988-07-10,Female,christensendanielle@lee.com,Single,"Samantha Garrett, 416-738-9451x96046",Trainee Analyst,PhD,SHRM-CP,"33286 William Drives
+Valentineland, OK 43299",Remote,8,Full-time,White,Yes,Eligible,Yes,Authorized,No,Yes
+E026,Crystal Molina,Sales,East Veronica,Developer,2023-03-14,50996,3,1966-12-09,Male,baileyaustin@yahoo.com,Married,"Rodney Clements, +1-298-071-5333x574",Trainee Analyst,Master's Degree,PMP,"803 Jorge Villages
+Lake Gary, ID 38247",Remote,5,Full-time,White,No,Eligible,Yes,Authorized,No,Yes
+E027,Joshua Martin,Sales,New Jeffrey,Coordinator,2023-09-20,62255,3,1998-06-07,Male,brendancalderon@gmail.com,Married,"Jillian Massey, 5238680512",Intern Manager,Master's Degree,SHRM-CP,"3028 Tina Trace Suite 937
+New Edwardport, MN 09750",Remote,0,Full-time,White,No,Eligible,Yes,Authorized,Yes,Yes
+E028,Philip Booker,Sales,Port Crystal,Analyst,2021-01-15,96978,4,1986-05-22,Male,ramirezjessica@paul.com,Single,"Andrea Davis, +1-503-434-0974x4603",Intern Coordinator,Bachelor's Degree,AWS Certified Developer,"36024 Hansen Fords
+North Danielleville, NV 97785",Remote,2,Full-time,White,Yes,Eligible,No,Authorized,Yes,Yes
+E029,Brittany Butler,Marketing,Justinmouth,Manager,2021-06-21,57534,5,1963-09-20,Female,turnertiffany@yahoo.com,Single,"Ashley Eaton, (048)281-4696",Intern Specialist,PhD,AWS Certified Developer,"3072 Henderson Alley
+Ricardohaven, CO 64038",Office,0,Full-time,White,Yes,Eligible,No,Authorized,No,Yes
+E030,Alexander Higgins,IT,West Sharonfort,Analyst,2023-11-10,71329,3,1973-10-20,Female,trichardson@young.com,Married,"Jesus Black, 9199840645",Trainee Manager,PhD,SHRM-CP,"0483 Smith Harbor
+Josephbury, TN 26631",Office,1,Full-time,White,No,Eligible,Yes,Authorized,Yes,Yes
+E031,Mr. Timothy Jackson,Finance,Jenkinsburgh,Specialist,2020-07-23,115960,1,1969-10-08,Male,ashley77@owens.biz,Divorced,"Christopher Martinez, 001-085-494-4845x089",Intern Coordinator,Master's Degree,Google Analytics,"610 Willis Gateway Suite 486
+Danielmouth, IA 24255",Remote,4,Full-time,Black,Yes,Eligible,No,Authorized,Yes,Yes
+E032,Erin Jones,Finance,Taylorton,Coordinator,2023-08-31,75663,1,2003-04-05,Female,amberwalker@hotmail.com,Single,"Martin Moore, 0391776936",Assistant Developer,Master's Degree,PMP,"34116 Gomez Forge
+Port Chase, IA 44755",Remote,1,Full-time,Hispanic,No,Eligible,Yes,Authorized,Yes,Yes
+E033,Diane Chapman,Finance,Greenshire,Specialist,2021-04-08,115041,4,1980-09-21,Male,christinaherring@williams.com,Single,"Benjamin Allen, 587.124.3195",Trainee Manager,PhD,Google Analytics,"PSC 7176, Box 1182
+APO AP 38084",Office,9,Full-time,Asian,No,Eligible,Yes,Authorized,No,Yes
+E034,Shane Gibson,HR,Donaldsonbury,Manager,2023-09-28,91755,3,1968-01-25,Female,colekelly@lopez.org,Divorced,"Sarah Gamble, 001-123-470-9854x4042",Junior Coordinator,PhD,Google Analytics,"729 Dean Courts Suite 932
+Port Michaelville, VT 20853",Office,10,Full-time,White,Yes,Eligible,No,Authorized,No,Yes
+E035,Alexandra Austin,Marketing,Martinstad,Coordinator,2020-02-29,78130,1,1996-05-27,Male,folson@stevens.com,Married,"Katherine Robertson, 527.403.8455x05837",Assistant Analyst,High School,CFA Level 1,"214 Garcia Burg
+Jenniferchester, OK 27858",Office,2,Full-time,White,No,Eligible,Yes,Authorized,Yes,Yes
+E036,Laurie Snyder,Sales,Ashleyview,Specialist,2022-10-05,82927,4,1996-12-03,Female,michele84@rocha-galvan.com,Single,"Emily Kelly, (426)681-1414",Assistant Coordinator,Bachelor's Degree,AWS Certified Developer,"PSC 2033, Box 7092
+APO AA 45384",Remote,9,Full-time,Black,Yes,Eligible,Yes,Authorized,No,Yes
+E037,Daniel Ford,Marketing,North Rebekahburgh,Developer,2024-04-02,108505,1,1996-04-09,Female,nicholas19@hotmail.com,Divorced,"Megan Hill, 462-015-0152x6907",Junior Coordinator,High School,CFA Level 1,"632 Santiago Curve
+West Calvinbury, NJ 34904",Remote,7,Full-time,Black,Yes,Eligible,Yes,Authorized,Yes,Yes
+E038,Jason Wright,IT,Vanessamouth,Analyst,2021-12-28,61119,5,2003-04-13,Male,stantonkathleen@rogers.org,Married,"Jack Delacruz, (680)333-2800",Assistant Specialist,Bachelor's Degree,PMP,"934 Larry Valley Apt. 250
+East Steveside, SD 40419",Remote,1,Full-time,Asian,Yes,Eligible,No,Authorized,No,Yes
+E039,Alicia Rose,Finance,East April,Manager,2020-11-05,50446,3,1983-01-13,Male,xcampbell@yahoo.com,Divorced,"Benjamin King, 608.009.8799x455",Junior Manager,Master's Degree,CFA Level 1,"24532 Justin Brook Suite 540
+Ryanfurt, ME 60835",Office,7,Full-time,Hispanic,Yes,Eligible,Yes,Authorized,No,Yes
+E040,Megan White,Marketing,South Denise,Analyst,2022-11-15,70000,1,1974-04-07,Male,brookefowler@hotmail.com,Married,"Mr. Michael Neal, (058)044-3587x239",Intern Developer,PhD,AWS Certified Developer,"201 William Shoal
+New James, MS 08425",Remote,2,Full-time,Black,Yes,Eligible,No,Authorized,No,Yes
+E041,Jacqueline Fields,Sales,Port Richard,Analyst,2020-09-14,68071,4,1964-04-14,Male,matthewhenry@gmail.com,Divorced,"David Turner, 667.086.3164",Junior Coordinator,Master's Degree,PMP,"Unit 8563 Box 6718
+DPO AP 53238",Remote,1,Full-time,White,Yes,Eligible,Yes,Authorized,Yes,Yes
+E042,Julia Pacheco,Marketing,Carrieport,Specialist,2023-09-05,119916,1,1994-08-26,Male,melissaleon@brooks.com,Divorced,"Jamie Keller, 001-045-836-5596",Assistant Specialist,Bachelor's Degree,AWS Certified Developer,"5863 Miles Plaza Apt. 860
+Lake Kathleen, IN 27962",Remote,8,Full-time,Black,No,Eligible,No,Authorized,No,Yes
+E043,Angel Oneal,Marketing,South Kathryn,Developer,2024-05-19,62892,5,1995-10-27,Female,veronicagomez@higgins.com,Married,"Danielle Rodriguez, 816.120.7661",Assistant Specialist,Bachelor's Degree,CFA Level 1,"60103 Brian Forest
+West Glenda, DE 73141",Remote,10,Full-time,Asian,Yes,Eligible,Yes,Authorized,Yes,Yes
+E044,Gina Ortiz,Marketing,Gordonview,Coordinator,2024-06-27,114396,5,1975-11-29,Male,johnsonlindsay@gmail.com,Single,"Matthew Lawrence, +1-945-712-3829x3318",Assistant Developer,Bachelor's Degree,PMP,"Unit 7109 Box 2637
+DPO AP 74471",Office,5,Full-time,Hispanic,No,Eligible,No,Authorized,Yes,Yes
+E045,Joshua Leonard,IT,Port Williamtown,Analyst,2020-02-29,99010,3,1966-12-11,Female,jamesyoung@gmail.com,Divorced,"Daniel Mccormick, 001-318-869-9232x6049",Assistant Developer,Master's Degree,CFA Level 1,"2990 Barron Wells Suite 591
+Ramseyside, WA 09029",Remote,6,Full-time,Black,Yes,Eligible,Yes,Authorized,Yes,Yes
+E046,Bradley Richardson,Marketing,Nguyenborough,Manager,2022-09-13,81259,1,2001-08-01,Female,sgreen@hotmail.com,Single,"Kathleen Briggs, (222)783-6414",Intern Coordinator,Master's Degree,CFA Level 1,"03860 Nicholas Shores Apt. 226
+Lake Jonathanstad, KS 03234",Remote,7,Full-time,Black,No,Eligible,Yes,Authorized,Yes,Yes
+E047,Monica Thompson,HR,Port Jessicastad,Coordinator,2020-07-19,53441,2,1974-11-23,Male,gwells@villegas.com,Single,"Adam Richards, +1-074-958-5133x53805",Junior Analyst,High School,SHRM-CP,"83611 Gould Square Apt. 855
+South Jason, OR 97526",Remote,6,Full-time,Asian,No,Eligible,Yes,Authorized,Yes,Yes
+E048,George Brady,Marketing,Jamesshire,Coordinator,2020-12-14,100404,2,1990-01-12,Male,angelacooper@gmail.com,Single,"Peter Pope MD, (137)856-9606",Trainee Developer,Master's Degree,AWS Certified Developer,"2557 Jay Well Suite 118
+Johnsonfort, MT 83356",Office,9,Full-time,White,No,Eligible,No,Authorized,Yes,Yes
+E049,Gregory Stevens,Sales,West Denise,Developer,2020-09-24,114296,4,1982-02-05,Male,victoriataylor@lee.org,Divorced,"Tracy Williams, 001-671-734-9673x97499",Assistant Specialist,Bachelor's Degree,SHRM-CP,"6737 Bob Shoals Apt. 131
+West Carlos, RI 61607",Office,3,Full-time,Hispanic,No,Eligible,No,Authorized,Yes,Yes
+E050,Andrew Little,Finance,Macdonaldland,Manager,2022-09-21,100249,4,1990-06-03,Female,jweaver@roth.info,Divorced,"Bryan Hill, (119)133-9919",Intern Specialist,High School,Google Analytics,"3044 Ward Glen Apt. 936
+Lake Maria, CA 45163",Office,3,Full-time,White,No,Eligible,No,Authorized,Yes,Yes
+E051,Angela Holder,Sales,South Bruce,Developer,2022-03-09,81096,4,1996-11-25,Male,aturner@cruz-salazar.net,Single,"Michael Thompson, (935)838-5925",Trainee Analyst,PhD,SHRM-CP,"7910 Thomas Field
+East Johnbury, VA 61971",Office,2,Full-time,White,Yes,Eligible,No,Authorized,No,Yes
+E052,Andre Kelly,Sales,Charlesburgh,Coordinator,2023-12-30,89751,5,1975-05-16,Male,leejames@hotmail.com,Divorced,"Kayla Becker, 176-991-1368",Trainee Analyst,Bachelor's Degree,Google Analytics,"USS Colon
+FPO AP 50886",Office,5,Full-time,Asian,Yes,Eligible,No,Authorized,No,Yes
+E053,Robert Wallace,HR,Nicholasburgh,Manager,2022-10-09,98272,5,2000-05-22,Male,nicole49@yahoo.com,Single,"Philip Norris, +1-954-756-7429x360",Trainee Manager,High School,AWS Certified Developer,"34030 Murray Neck
+New Danahaven, WI 55376",Remote,4,Full-time,White,No,Eligible,Yes,Authorized,Yes,Yes
+E054,Michael Potter,HR,Timothyberg,Manager,2022-09-18,71902,2,1977-01-18,Male,jonathanvelasquez@west.com,Divorced,"Samantha Kidd, +1-506-815-3321x166",Assistant Analyst,Bachelor's Degree,AWS Certified Developer,"332 Joann Inlet
+Hooperhaven, KY 68835",Remote,0,Full-time,Hispanic,Yes,Eligible,Yes,Authorized,Yes,Yes
+E055,Mark Robinson,Sales,Odomtown,Specialist,2024-03-29,98087,1,1977-06-04,Male,nicole51@mendoza-moore.com,Single,"Gloria Thomas, 001-954-146-0203x598",Intern Developer,PhD,PMP,"5752 Johnson Terrace
+Gomezbury, WY 83689",Remote,6,Full-time,Asian,Yes,Eligible,Yes,Authorized,No,Yes
+E056,Andrew Watson,Finance,Whiteton,Specialist,2020-07-10,80320,2,1993-09-15,Male,kellerkristin@miller.com,Married,"Curtis Thompson, 0758949122",Intern Coordinator,PhD,Google Analytics,"3400 Shawn Keys
+North Allenview, TN 73830",Remote,4,Full-time,White,No,Eligible,Yes,Authorized,No,Yes
+E057,Jason King,IT,North Toddberg,Manager,2023-09-25,97409,2,1978-11-15,Female,melanie90@robinson.org,Divorced,"David Garcia, 001-708-842-0498x700",Intern Developer,Master's Degree,AWS Certified Developer,"4293 Branch Rapids
+Deborahmouth, WY 56213",Office,9,Full-time,Asian,Yes,Eligible,No,Authorized,No,Yes
+E058,Kenneth Campbell,Sales,East Kimberlyville,Analyst,2021-04-28,107660,5,1973-08-21,Female,villakevin@walsh.com,Single,"Lori Jones, 7007334628",Trainee Manager,PhD,Google Analytics,"8892 Kirby Fort
+New Kenneth, AK 61140",Office,1,Full-time,White,Yes,Eligible,Yes,Authorized,Yes,Yes
+E059,Roy Kim,Sales,North Calebview,Analyst,2022-12-20,71144,2,1976-08-27,Male,rebeccasimpson@hotmail.com,Married,"Ms. Jessica Gonzalez, 951-907-0945x21313",Junior Developer,High School,Google Analytics,"2821 Parrish Corner Apt. 537
+Port Monicachester, NJ 46882",Office,1,Full-time,White,No,Eligible,No,Authorized,Yes,Yes
+E060,Wendy Bradshaw,Finance,Johnport,Analyst,2020-06-11,118348,3,1987-10-10,Female,washingtonchristopher@castillo.net,Single,"Brad Christensen, 941-449-2288x82219",Assistant Analyst,Bachelor's Degree,Google Analytics,"5287 Hughes Isle
+Patriciastad, HI 39741",Remote,7,Full-time,White,Yes,Eligible,No,Authorized,Yes,Yes
+E061,Stephanie Yang,Finance,Scottton,Developer,2023-01-05,83942,3,1980-05-31,Male,williamgreen@rivera-hooper.com,Single,"Melissa Diaz, 001-051-882-7743",Junior Manager,PhD,SHRM-CP,"7216 Dyer Mission
+North Donnaton, AZ 62927",Office,8,Full-time,Asian,Yes,Eligible,No,Authorized,Yes,Yes
+E062,Mrs. Donna Stewart,Sales,Crystalburgh,Coordinator,2022-08-17,50526,5,1971-09-01,Female,ann89@moore-tyler.com,Single,"Angela Smith, 001-907-071-8187x25281",Junior Coordinator,Bachelor's Degree,PMP,"583 Ryan Stream
+Kevinport, WV 29140",Remote,7,Full-time,Hispanic,No,Eligible,Yes,Authorized,No,Yes
+E063,Jennifer Sanchez,Marketing,Port James,Analyst,2021-05-16,83026,2,2002-09-29,Male,leekayla@gmail.com,Single,"Sierra Horton, +1-838-398-1194",Assistant Developer,PhD,AWS Certified Developer,"3388 Erica Highway
+Katherineburgh, CT 63141",Remote,3,Full-time,Black,No,Eligible,Yes,Authorized,Yes,Yes
+E064,Lisa Wilson,HR,Robertview,Developer,2022-11-28,111181,1,1969-02-19,Male,phillipsangela@yahoo.com,Single,"Michael Brown, (741)595-1277x345",Intern Developer,Master's Degree,AWS Certified Developer,"0530 Duncan Parkways
+Debbiebury, ID 28055",Remote,3,Full-time,Black,No,Eligible,No,Authorized,Yes,Yes
+E065,Micheal Lewis,IT,Davidside,Manager,2020-07-09,75902,2,1997-12-07,Female,uho@hotmail.com,Single,"Maurice Gonzalez, 2799267073",Intern Developer,High School,AWS Certified Developer,"0205 Porter Estate Apt. 177
+East Stephanieberg, IA 23454",Remote,7,Full-time,Black,Yes,Eligible,Yes,Authorized,Yes,Yes
+E066,Tammy Russell,Marketing,East Mollyview,Manager,2021-04-16,68050,1,1995-12-21,Female,darlene26@yahoo.com,Single,"James Guerrero, 677-251-5304",Intern Analyst,High School,SHRM-CP,"327 Weaver Harbors Suite 510
+Aprilburgh, KY 05635",Remote,0,Full-time,White,Yes,Eligible,No,Authorized,Yes,Yes
+E067,Bob Petersen,Sales,Chelseachester,Manager,2022-02-25,108967,2,1981-10-01,Male,justinjohnson@gmail.com,Married,"Nicholas Richmond, 548.516.2810x001",Assistant Specialist,PhD,SHRM-CP,"3053 Baker Trace
+Port Brenda, RI 80610",Remote,3,Full-time,Hispanic,No,Eligible,Yes,Authorized,Yes,Yes
+E068,Christina Morales,Finance,Davistown,Developer,2020-07-20,86923,1,2000-10-27,Male,jamesmartin@wilson-smith.com,Single,"Larry Navarro, 231.931.7917x9883",Junior Specialist,PhD,AWS Certified Developer,"418 Timothy Groves Apt. 097
+Mooneybury, OH 15469",Remote,5,Full-time,Black,No,Eligible,No,Authorized,Yes,Yes
+E069,Carl Estrada,Marketing,Aaronhaven,Specialist,2020-04-21,106786,1,1973-05-28,Male,daniel33@yahoo.com,Single,"Cory Stevens, 839-957-7507",Junior Coordinator,Master's Degree,PMP,"2093 Santiago Oval Apt. 222
+Martinezton, CO 09882",Remote,3,Full-time,Hispanic,No,Eligible,Yes,Authorized,Yes,Yes
+E070,Steven Wilson,Marketing,East Christine,Manager,2019-08-26,68030,4,1991-01-05,Female,adam68@gmail.com,Divorced,"Alexander Kelley, 088-849-5632x567",Junior Coordinator,Master's Degree,AWS Certified Developer,"26049 Matthew Mill
+Peterchester, OR 53468",Office,3,Full-time,Hispanic,Yes,Eligible,Yes,Authorized,Yes,Yes
+E071,Levi Rodriguez,Finance,South Kennethfort,Coordinator,2019-10-27,62565,2,1966-02-04,Male,dorisblack@schmidt.com,Single,"Karen Barajas, 6998614802",Junior Developer,Bachelor's Degree,CFA Level 1,"626 Tamara Ville
+East Jessicafurt, PA 39847",Office,2,Full-time,Black,Yes,Eligible,Yes,Authorized,No,Yes
+E072,Stacy Kane,Marketing,East Robert,Developer,2023-07-25,56328,2,2000-11-04,Female,christopherkennedy@robinson.info,Divorced,"Timothy Clark, (276)605-2084x6987",Junior Developer,Master's Degree,Google Analytics,"5183 Patterson Glens
+East Bryan, NC 40239",Remote,3,Full-time,White,No,Eligible,Yes,Authorized,No,Yes
+E073,Terry Warren,Finance,Donaldport,Manager,2022-11-15,58593,4,1973-11-13,Female,mrobertson@guzman.com,Single,"Meghan Cole, 001-071-942-9095x68837",Junior Developer,Master's Degree,PMP,"13690 Bailey Ford
+Armstrongland, MA 20696",Remote,2,Full-time,White,No,Eligible,Yes,Authorized,No,Yes
+E074,Craig Cruz,Marketing,Barkerborough,Analyst,2021-05-09,79737,2,1984-07-10,Male,lewisveronica@williams.info,Married,"Randy Phelps, 336-862-6278",Junior Specialist,High School,Google Analytics,"33756 Ramirez Harbor Apt. 561
+Briannafurt, TN 38568",Office,4,Full-time,Black,Yes,Eligible,No,Authorized,Yes,Yes
+E075,Lori Deleon,Marketing,Lake Elizabeth,Analyst,2021-07-26,107710,4,1994-11-20,Male,newmanchristopher@yu.info,Married,"Ashley Johnson, (783)827-0741x521",Assistant Developer,Bachelor's Degree,PMP,"68041 Maria Path
+Adamtown, MT 32026",Remote,10,Full-time,Asian,Yes,Eligible,Yes,Authorized,No,Yes
