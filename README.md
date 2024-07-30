@@ -32,6 +32,7 @@ The data used in this project was generated using ChatGPT, an AI language model 
 - `Data`: Sample data used in the project.
 - `Script/Dynatech_hr_dashboard.sql`: SQL queries used for data analysis.
 - `Visualizations`: Screenshots of the Power BI dashboard.
+- `Docs/Dynatech HR Report.pdf`: Detailed Project Report
 
 - ## How to Use
 1. Clone the repository: `git clone [https://github.com/phillipkay53/Dynatech-Solutions-HR-Dashboard.git]`
